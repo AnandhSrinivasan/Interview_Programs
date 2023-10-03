@@ -13,7 +13,6 @@ public class Swap_Two_Nums {
 		incrSalary= temp;
 		System.out.println("------------");
 		System.out.println("After Swap My Salary is :" + Mysalary );
-		
 	}
 
 }
